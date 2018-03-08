@@ -24,7 +24,8 @@ public class Uebung_fur_SA extends JFrame {
 	 * TODO: Aufgabe 7: Entry-Objekt (2 Attribute - eine Zeile in Liste
 	 */
 	private class Entry {
-
+String name;
+String vorname;
 	}
 
 	private static final String ENCODING = "UTF8";
@@ -76,7 +77,6 @@ con.add(norden, BorderLayout.NORTH);
 		 */
 JTextField tTextfeld;
 
-con.setLayout(new BorderLayout());
 tTextfeld = new JTextField();
 con.add(tTextfeld, BorderLayout.CENTER);
 
