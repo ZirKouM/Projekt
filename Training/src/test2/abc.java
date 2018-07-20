@@ -1,5 +1,7 @@
 package test2;
 
 public class abc {
-//hallo
+	public static void main(String[]args) {
+System.out.println("Hallo");
+}
 }
