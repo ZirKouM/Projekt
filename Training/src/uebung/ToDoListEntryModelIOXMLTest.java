@@ -1,7 +1,7 @@
 /*
  * $Id: ToDoListEntryModelIOXMLTest.java 1728 2017-06-25 08:44:02Z michael $
  */
-package Training;
+package uebung;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
